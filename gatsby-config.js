@@ -10,10 +10,10 @@
 module.exports = {
   pathPrefix: "/atblog_gatsby",
   siteMetadata: {
-    title: `DF fly life`,
+    title: `fly life`,
     author: {
-      name: `DF42`,
-      summary: ` 4 coding/writing/travling/cycling/hiking`,
+      name: `at42`,
+      summary: ``,
     },
     description: ``,
     siteUrl: `https://atongsa.github.io`,
