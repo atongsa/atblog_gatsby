@@ -8,16 +8,17 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: "/at42_blog",
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `at42`,
+      summary: `at42 coding/writing/travling/cycling/hiking`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `at42 earth life`,
+    siteUrl: `https://atongsa.github.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `atongsa42`,
     },
   },
   plugins: [
