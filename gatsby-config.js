@@ -13,7 +13,7 @@ module.exports = {
     title: `DF fly life`,
     author: {
       name: `DF42`,
-      summary: `4 coding/writing/travling/cycling/hiking`,
+      summary: ` 4 coding/writing/travling/cycling/hiking`,
     },
     description: ``,
     siteUrl: `https://atongsa.github.io`,
@@ -119,7 +119,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/wk.jpeg`, // This path is relative to the root of the site.
       },
     },
   ],
