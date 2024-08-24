@@ -8,15 +8,15 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: "/at42_blog",
+  pathPrefix: "",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `DF fly life`,
     author: {
-      name: `at42`,
-      summary: `at42 coding/writing/travling/cycling/hiking`,
+      name: `DF42`,
+      summary: `4 coding/writing/travling/cycling/hiking`,
     },
-    description: `at42 earth life`,
-    siteUrl: `https://atongsa.github.io/`,
+    description: ``,
+    siteUrl: ``,
     social: {
       twitter: `atongsa42`,
     },
