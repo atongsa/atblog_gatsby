@@ -1,3 +1,9 @@
+---
+title: fly_tools
+date: "2024-08-25 21:22"
+description: tools used in fly research.
+---
+
 # philosophy
 - tools used in fly opsin
 - in [] is the category of the tools
@@ -35,6 +41,7 @@ mapNN (https://github.com/kr-colab/mapNN) # vcf to density map
 [xwas]
 DGRPool (https://dgrpool.epfl.ch/) # phenotype data for xwas
 ```
+
 
 - data_plot
 
